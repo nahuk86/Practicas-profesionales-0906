@@ -1,0 +1,6 @@
+C:\Users\nahue\Desktop\Ingenieria de software - 1er parcial\nahuel-krauss\Practicas_profesionales\DomainModel\bin\Debug\DomainModel.dll
+C:\Users\nahue\Desktop\Ingenieria de software - 1er parcial\nahuel-krauss\Practicas_profesionales\DomainModel\bin\Debug\DomainModel.pdb
+C:\Users\nahue\Desktop\Ingenieria de software - 1er parcial\nahuel-krauss\Practicas_profesionales\DomainModel\obj\Debug\DomainModel.csproj.AssemblyReference.cache
+C:\Users\nahue\Desktop\Ingenieria de software - 1er parcial\nahuel-krauss\Practicas_profesionales\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\nahue\Desktop\Ingenieria de software - 1er parcial\nahuel-krauss\Practicas_profesionales\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\nahue\Desktop\Ingenieria de software - 1er parcial\nahuel-krauss\Practicas_profesionales\DomainModel\obj\Debug\DomainModel.pdb

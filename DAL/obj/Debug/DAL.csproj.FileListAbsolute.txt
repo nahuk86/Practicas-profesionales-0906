@@ -1,0 +1,9 @@
+C:\Users\nahue\Desktop\Ingenieria de software - 1er parcial\nahuel-krauss\Practicas_profesionales\DAL\bin\Debug\DAL.dll
+C:\Users\nahue\Desktop\Ingenieria de software - 1er parcial\nahuel-krauss\Practicas_profesionales\DAL\bin\Debug\DAL.pdb
+C:\Users\nahue\Desktop\Ingenieria de software - 1er parcial\nahuel-krauss\Practicas_profesionales\DAL\bin\Debug\DomainModel.dll
+C:\Users\nahue\Desktop\Ingenieria de software - 1er parcial\nahuel-krauss\Practicas_profesionales\DAL\bin\Debug\DomainModel.pdb
+C:\Users\nahue\Desktop\Ingenieria de software - 1er parcial\nahuel-krauss\Practicas_profesionales\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\nahue\Desktop\Ingenieria de software - 1er parcial\nahuel-krauss\Practicas_profesionales\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nahue\Desktop\Ingenieria de software - 1er parcial\nahuel-krauss\Practicas_profesionales\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\nahue\Desktop\Ingenieria de software - 1er parcial\nahuel-krauss\Practicas_profesionales\DAL\obj\Debug\DAL.dll
+C:\Users\nahue\Desktop\Ingenieria de software - 1er parcial\nahuel-krauss\Practicas_profesionales\DAL\obj\Debug\DAL.pdb
