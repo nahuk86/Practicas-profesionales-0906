@@ -20,12 +20,9 @@ C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\Presentacion\bin\De
 C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\Presentacion\bin\Debug\Presentacion.pdb
 C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\Presentacion\bin\Debug\BLL.dll
 C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\Presentacion\bin\Debug\DomainModel.dll
-C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\Presentacion\bin\Debug\DAL.dll
 C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\Presentacion\bin\Debug\BLL.pdb
 C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\Presentacion\bin\Debug\DomainModel.pdb
-C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\Presentacion\bin\Debug\DAL.pdb
 C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
-C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\Presentacion\obj\Debug\Presentacion.Form1.resources
 C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
 C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
 C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
