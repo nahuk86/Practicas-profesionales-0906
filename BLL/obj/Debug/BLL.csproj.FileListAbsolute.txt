@@ -9,3 +9,14 @@ C:\Users\nahue\Desktop\Ingenieria de software - 1er parcial\nahuel-krauss\Practi
 C:\Users\nahue\Desktop\Ingenieria de software - 1er parcial\nahuel-krauss\Practicas_profesionales\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\nahue\Desktop\Ingenieria de software - 1er parcial\nahuel-krauss\Practicas_profesionales\BLL\obj\Debug\BLL.dll
 C:\Users\nahue\Desktop\Ingenieria de software - 1er parcial\nahuel-krauss\Practicas_profesionales\BLL\obj\Debug\BLL.pdb
+C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\BLL\bin\Debug\BLL.dll
+C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\BLL\bin\Debug\BLL.pdb
+C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\BLL\bin\Debug\DAL.dll
+C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\BLL\bin\Debug\DomainModel.dll
+C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\BLL\bin\Debug\DAL.pdb
+C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\BLL\bin\Debug\DomainModel.pdb
+C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\BLL\obj\Debug\BLL.dll
+C:\Users\nahue\Documents\GitHub\Practicas-profesionales-0906\BLL\obj\Debug\BLL.pdb

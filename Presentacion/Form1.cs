@@ -44,5 +44,12 @@ namespace Presentacion
         {
             MostrarEmpleados();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            game game = new game();
+            game.Show();
+            this.Hide();
+        }
     }
 }
